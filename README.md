@@ -70,7 +70,7 @@ The tweet dataset was mined via the Twitter API across trending hashtags at mult
 │   ├── Tweet_Classification.ipynb   # Main pipeline: preprocessing, both phases, evaluation
 │   └── SparkNLP.ipynb               # Exploratory Spark NLP alternative (not in final system)
 ├── docs/
-│   └── FYP_Research_Paper.docx      # Full paper: methodology, all result tables, discussion
+│   └── Bilingual-Classification.pdf      # Full paper: methodology, all result tables, discussion
 ├── requirements.txt
 └── README.md
 ```
