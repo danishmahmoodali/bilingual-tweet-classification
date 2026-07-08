@@ -2,7 +2,7 @@
 
 Semi-supervised topic classification of **code-mixed English / Roman Urdu tweets** — a two-phase machine learning pipeline that labels unannotated tweets with an unsupervised model, then trains supervised classifiers on the expanded corpus. Best configuration: **Linear SVM at 90% accuracy**, improving on the predecessor project's 87.5% baseline.
 
-📄 **[Read the full thesis](docs/FYP_Research_Paper.pdf)** — B.Sc. Computer Science Final Year Project, University of Karachi (2023).
+📄 **[Read the full thesis](docs/Bilingual Classification.pdf)** — B.Sc. Computer Science Final Year Project, University of Karachi (2023).
 
 ## 🧾 Attribution
 
