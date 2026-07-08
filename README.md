@@ -2,7 +2,7 @@
 
 Semi-supervised classification of code-switched **English / Roman-Urdu tweets** into six content categories, using a two-phase pipeline: model-assisted labeling of unlabeled data, followed by supervised multiclass classification.
 
-📄 **[Read the research paper](docs/Bilingual-Classification.pdf)** — *Labeling & Classification of Bilingual Tweets*. The full B.Sc. thesis is also included ([docs/FYP_Research_Paper.docx](docs/FYP_Research_Paper.docx)).
+📄 **[Read the research paper](docs/Bilingual-Classification.pdf)** — *Labeling & Classification of Bilingual Tweets*. 
 
 ## 🧾 Attribution
 
