@@ -50,8 +50,7 @@ Linear SVM with the 3,000-word dictionary was the best configuration overall —
 ├── notebooks/
 │   └── tweet_classification.ipynb   # Preprocessing, dictionary generation, both phases
 ├── docs/
-│   ├── FYP_Research_Paper.pdf       # Full thesis
-│   └── FYP_Research_Paper.docx
+│   ├── Bilingual_Classification.pdf       # Full thesis
 ├── requirements.txt
 └── README.md
 ```
